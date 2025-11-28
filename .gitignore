@@ -208,3 +208,6 @@ __marimo__/
 
 # Copy
 copy.sh
+
+# macOS
+.DS_Store
